@@ -7,7 +7,7 @@ Key Features
   a greater amount of weight, sets or reps.
 
 Images
-
+![StartUp Sketch](https://github.com/bradysillito/startup/blob/main/StartUpDrawing.jpg)
 
 
 
