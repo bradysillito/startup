@@ -20,3 +20,11 @@ create, customize and manage your workout plans, and see the progress over time.
 It's an essential tool for those who want to stay on top of their fitness goals 
 and see their progress.
 
+
+Public IP
+18.119.132.30
+
+Web Address
+http://18.119.132.30
+
+EC2 Instance allows you to run your servers on amazons machines.
