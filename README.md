@@ -22,10 +22,10 @@ and see their progress.
 
 
 Public IP
-18.119.132.30
+3.139.172.172
 
 Web Address
-http://18.119.132.30
+http://startfit.click
 
 EC2 Instance allows you to run your servers on amazons machines.
 
