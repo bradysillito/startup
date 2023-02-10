@@ -31,3 +31,7 @@ EC2 Instance allows you to run your servers on amazons machines.
 
 ssh -i [key pair file] ubuntu@[ip address]
 key pair file location: Desktop/Winter\ 2023/CS260/production.pem
+
+LEARNED IN SIMON:
+- Was good to get more comfortable with HTML
+- That you can deploy things to the sub domains that way
