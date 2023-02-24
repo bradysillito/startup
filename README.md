@@ -35,3 +35,5 @@ key pair file location: Desktop/Winter\ 2023/CS260/production.pem
 LEARNED IN SIMON:
 - Was good to get more comfortable with HTML
 - That you can deploy things to the sub domains that way
+- Was great to practice different css techniques, things dont always seem to work the 
+way I think they will so practice is important
